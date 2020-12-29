@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**flo20/flo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Florence 👋🏾 👩🏾‍💻
 
-Here are some ideas to get you started:
+## I am passionate about tech's impact on business and societal growth 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am curious about innovative tech 🧠
+- I am currently programming with Javascript, together with many other Javascript libraries and frameworks
+- ⚡ Fun fact about me: I love anything that triggers my creativity
+
+<br />
+
+
+
