@@ -1,11 +1,9 @@
 
 ### Hi there, I'm Florence 👋🏾 
 
-## I am passionate about tech's impact on business and societal development  
+I'm a software developer who is passionate about tech's impact on business and creating technology to boost societal development. Some technologies I enjoy working with are Javascript and ReactJS.
 
-- 🧠 I am curious about innovative tech 
-- 👩🏾‍💻 I am currently programming with Javascript, together with many other Javascript libraries and frameworks
-- ⚡ Fun fact about me: I love anything that triggers my creativity
+⚡ Fun fact about me: I love anything that triggers my creativity
 
 <br />
 
