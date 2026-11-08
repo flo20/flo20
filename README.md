@@ -4,7 +4,7 @@
 
 I'm a frontend-focused software engineer with 4+ years of experience building modern applications with **React, Next.js, TypeScript and JavaScript**.
 
-I enjoy turning product ideas and designs into responsive, accessible and maintainable interfaces — while also working comfortably across the backend when needed.
+I enjoy turning product ideas and designs into responsive, accessible and maintainable interfaces while also working comfortably across the backend when needed.
 
 Currently, I'm building **Tally**, a personal finance application using Next.js and Supabase, where I work across the UI, application logic, database and server-side functionality.
 
